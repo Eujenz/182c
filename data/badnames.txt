@@ -1,0 +1,21 @@
+﻿###################################################
+# Bad name list.
+#
+# if name startswith, or endswith these words
+# charcreation will say its invalid name.
+# 
+# ALL LOWERCASE!!!!!
+###################################################
+?
+!
+.
+,
+管理
+GM
+幹;乾
+媽;媽
+操
+逼
+日本
+台灣;台灣
+中國;中國

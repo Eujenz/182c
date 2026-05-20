@@ -1,0 +1,90 @@
+02-02 11:46:17 [ Timer-15:1 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnline.write(WriteHTMLOnline.java:69)
+	at net.online.WriteHTMLOnline.run(WriteHTMLOnline.java:61)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 11:46:17 [ Timer-16:16 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnlinePc.write(WriteHTMLOnlinePc.java:80)
+	at net.online.WriteHTMLOnlinePc.run(WriteHTMLOnlinePc.java:60)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 11:49:42 [ Timer-16:1 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnlinePc.write(WriteHTMLOnlinePc.java:80)
+	at net.online.WriteHTMLOnlinePc.run(WriteHTMLOnlinePc.java:60)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 11:49:42 [ Timer-15:2 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnline.write(WriteHTMLOnline.java:69)
+	at net.online.WriteHTMLOnline.run(WriteHTMLOnline.java:61)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 11:50:06 [ Timer-15:4 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnline.write(WriteHTMLOnline.java:69)
+	at net.online.WriteHTMLOnline.run(WriteHTMLOnline.java:61)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 11:50:06 [ Timer-16:5 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnlinePc.write(WriteHTMLOnlinePc.java:80)
+	at net.online.WriteHTMLOnlinePc.run(WriteHTMLOnlinePc.java:60)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 11:53:35 [ Timer-16:6 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnlinePc.write(WriteHTMLOnlinePc.java:80)
+	at net.online.WriteHTMLOnlinePc.run(WriteHTMLOnlinePc.java:60)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 11:53:35 [ Timer-15:6 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnline.write(WriteHTMLOnline.java:69)
+	at net.online.WriteHTMLOnline.run(WriteHTMLOnline.java:61)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 13:57:51 [ Timer-15:5 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnline.write(WriteHTMLOnline.java:69)
+	at net.online.WriteHTMLOnline.run(WriteHTMLOnline.java:61)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+02-02 13:57:51 [ Timer-16:8 ] - [ ERROR ]  系统找不到指定的路径。
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnlinePc.write(WriteHTMLOnlinePc.java:80)
+	at net.online.WriteHTMLOnlinePc.run(WriteHTMLOnlinePc.java:60)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)

@@ -1,0 +1,18 @@
+﻿<c3p0-config>
+  <default-config>
+    <property name="autoCommitOnClose">true</property>  <!-- 連接關閉時默認將所有未提交的操作回滾。Default: false -->
+    <property name="initialPoolSize">10</property>      <!-- 初始化時獲取三個連接，取值應在minPoolSize與maxPoolSize之間。Default: 3 -->
+    <property name="minPoolSize">10</property>          <!-- 連接池中保留的最小連接數。-->
+    <property name="maxPoolSize">100</property>         <!-- 連接池中保留的最大連接數。Default: 15 -->
+    <property name="acquireRetryAttempts">0</property>  <!-- 定義在從數據庫獲取新連接失敗後重複嘗試的次數。Default: 30 -->
+    <property name="acquireRetryDelay">500</property>   <!-- 兩次連接中間隔時間，單位毫秒。Default: 1000 -->
+    <property name="checkoutTimeout">0</property>       <!-- 當連接池用完時客戶端調用getConnection()後等待獲取新連接的時間，超時後將拋出SQLException,如設為0則無限期等待。單位毫秒。Default: 0 -->
+    <property name="acquireIncrement">5</property>      <!-- 當連接池中的連接耗盡的時候c3p0一次同時獲取的連接數。Default: 3 -->
+    <property name="automaticTestTable">connection_test_table</property>    <!-- c3p0將建一張名為Test的空表，並使用其自帶的查詢語句進行測試。如果定義了這個參數那麼屬性preferredTestQuery將被忽略。你不能在這張Test表上進行任何操作，它將只供c3p0測試使用。Default: null -->
+    <property name="testConnectionOnCheckin">false</property>   <!-- 如果設為true那麼在取得連接的同時將校驗連接的有效性。Default: false -->
+    <property name="idleConnectionTestPeriod">60</property>     <!-- 每60秒檢查所有連接池中的空閒連接。Default: 0 -->
+    <property name="maxIdleTime">0</property>           <!-- 最大空閒時間,60秒內未使用則連接被丟棄。若為0則永不丟棄。Default: 0 -->
+    <property name="maxStatementsPerConnection">100</property>  <!-- maxStatementsPerConnection定義了連接池內單個連接所擁有的最大緩存statements數。Default: 0 -->
+    <property name="breakAfterAcquireFailure">false</property>  <!-- 獲取連接失敗將會引起所有等待連接池來獲取連接的線程拋出異常。但是數據源仍有效保留，並在下次調用getConnection()的時候繼續嘗試獲取連接。如果設為true，那麼在嘗試獲取連接失敗後該數據源將申明已斷開並永久關閉。Default: false -->
+  </default-config>
+</c3p0-config>

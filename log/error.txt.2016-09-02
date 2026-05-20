@@ -1,0 +1,54 @@
+09-02 19:33:12 [ Timer-16:0 ] - [ ERROR ]  裝置未就緒。
+java.io.IOException: 裝置未就緒。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnlinePc.write(WriteHTMLOnlinePc.java:80)
+	at net.online.WriteHTMLOnlinePc.run(WriteHTMLOnlinePc.java:60)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+09-02 19:33:12 [ Timer-15:47 ] - [ ERROR ]  裝置未就緒。
+java.io.IOException: 裝置未就緒。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnline.write(WriteHTMLOnline.java:69)
+	at net.online.WriteHTMLOnline.run(WriteHTMLOnline.java:61)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+09-02 19:35:01 [ Timer-15:0 ] - [ ERROR ]  裝置未就緒。
+java.io.IOException: 裝置未就緒。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnline.write(WriteHTMLOnline.java:69)
+	at net.online.WriteHTMLOnline.run(WriteHTMLOnline.java:61)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+09-02 19:35:01 [ Timer-16:0 ] - [ ERROR ]  裝置未就緒。
+java.io.IOException: 裝置未就緒。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnlinePc.write(WriteHTMLOnlinePc.java:80)
+	at net.online.WriteHTMLOnlinePc.run(WriteHTMLOnlinePc.java:60)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+09-02 19:37:07 [ Timer-15:16 ] - [ ERROR ]  裝置未就緒。
+java.io.IOException: 裝置未就緒。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnlinePc.write(WriteHTMLOnlinePc.java:80)
+	at net.online.WriteHTMLOnlinePc.run(WriteHTMLOnlinePc.java:60)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+09-02 19:37:07 [ Timer-14:16 ] - [ ERROR ]  裝置未就緒。
+java.io.IOException: 裝置未就緒。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at net.online.DocumentLiteracy.Write(DocumentLiteracy.java:60)
+	at net.online.WriteHTMLOnline.write(WriteHTMLOnline.java:69)
+	at net.online.WriteHTMLOnline.run(WriteHTMLOnline.java:61)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
